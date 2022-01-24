@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://jaymicrocode.github.io/csb-4uru9/static/css/main.9b92e154.chunk.css",
+    "main.js": "https://jaymicrocode.github.io/csb-4uru9/static/js/main.7092a61c.chunk.js",
+    "main.js.map": "https://jaymicrocode.github.io/csb-4uru9/static/js/main.7092a61c.chunk.js.map",
+    "runtime-main.js": "https://jaymicrocode.github.io/csb-4uru9/static/js/runtime-main.1bfde393.js",
+    "runtime-main.js.map": "https://jaymicrocode.github.io/csb-4uru9/static/js/runtime-main.1bfde393.js.map",
+    "static/js/2.126d8f9f.chunk.js": "https://jaymicrocode.github.io/csb-4uru9/static/js/2.126d8f9f.chunk.js",
+    "static/js/2.126d8f9f.chunk.js.map": "https://jaymicrocode.github.io/csb-4uru9/static/js/2.126d8f9f.chunk.js.map",
+    "index.html": "https://jaymicrocode.github.io/csb-4uru9/index.html",
+    "static/css/main.9b92e154.chunk.css.map": "https://jaymicrocode.github.io/csb-4uru9/static/css/main.9b92e154.chunk.css.map",
+    "static/js/2.126d8f9f.chunk.js.LICENSE.txt": "https://jaymicrocode.github.io/csb-4uru9/static/js/2.126d8f9f.chunk.js.LICENSE.txt",
+    "static/media/blur-layer.14b88556.webp": "https://jaymicrocode.github.io/csb-4uru9/static/media/blur-layer.14b88556.webp",
+    "static/media/hero-wave.146c53ed.svg": "https://jaymicrocode.github.io/csb-4uru9/static/media/hero-wave.146c53ed.svg",
+    "static/media/mountain1.1b4e4802.svg": "https://jaymicrocode.github.io/csb-4uru9/static/media/mountain1.1b4e4802.svg",
+    "static/media/mountain2.9a5bf067.svg": "https://jaymicrocode.github.io/csb-4uru9/static/media/mountain2.9a5bf067.svg",
+    "static/media/mountain3.47e30c92.svg": "https://jaymicrocode.github.io/csb-4uru9/static/media/mountain3.47e30c92.svg",
+    "static/media/mountain4.172e854a.svg": "https://jaymicrocode.github.io/csb-4uru9/static/media/mountain4.172e854a.svg",
+    "static/media/mountain5.5d9d098c.svg": "https://jaymicrocode.github.io/csb-4uru9/static/media/mountain5.5d9d098c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bfde393.js",
+    "static/js/2.126d8f9f.chunk.js",
+    "static/css/main.9b92e154.chunk.css",
+    "static/js/main.7092a61c.chunk.js"
+  ]
+}
